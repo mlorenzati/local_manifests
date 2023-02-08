@@ -3,6 +3,7 @@
 
 # Dev env Setup
 ## Install build components (e.g.: Ubuntu)
+
 ```
 sudo apt update && sudo apt install gcc-aarch64-linux-gnu libssl-dev bc python3-setuptools repo python-is-python3 libncurses5 zip unzip make gcc flex bison -y
 
