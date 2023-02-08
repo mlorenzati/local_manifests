@@ -1,4 +1,4 @@
-# Forked from https://github.com/android-rpi/local_manifests
+Forked from https://github.com/android-rpi/local_manifests
 # Android Automotive 11 for rpi 4
 
 # Dev env Setup
